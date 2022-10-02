@@ -1,4 +1,6 @@
 # NN_2021-22_MattiaSeu
+
+Based on [Latent Diffusion Models](https://github.com/CompVis/latent-diffusion).
  
 ## Text-to-Image
 To run text to image, first download the pre-trained weights (5.7GB) executing in root folder
